@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\bin\Debug\net6.0\projekt_test.exe
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\bin\Debug\net6.0\projekt_test.deps.json
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\bin\Debug\net6.0\projekt_test.runtimeconfig.json
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\bin\Debug\net6.0\projekt_test.dll
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\bin\Debug\net6.0\projekt_test.pdb
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\obj\Debug\net6.0\projekt_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\obj\Debug\net6.0\projekt_test.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\obj\Debug\net6.0\projekt_test.AssemblyInfo.cs
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\obj\Debug\net6.0\projekt_test.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\obj\Debug\net6.0\projekt_test.dll
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\obj\Debug\net6.0\refint\projekt_test.dll
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\obj\Debug\net6.0\projekt_test.pdb
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\obj\Debug\net6.0\projekt_test.genruntimeconfig.cache
+C:\Users\asus\Desktop\designing and creating high level\projekt_test\projekt_test\obj\Debug\net6.0\ref\projekt_test.dll
