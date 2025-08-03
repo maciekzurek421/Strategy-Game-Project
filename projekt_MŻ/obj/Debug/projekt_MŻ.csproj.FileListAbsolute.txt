@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\bin\Debug\projekt_MŻ.exe.config
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\bin\Debug\projekt_MŻ.exe
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\bin\Debug\projekt_MŻ.pdb
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\obj\Debug\projekt_MŻ.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\obj\Debug\projekt_MŻ.Form1.resources
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\obj\Debug\projekt_MŻ.Properties.Resources.resources
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\obj\Debug\projekt_MŻ.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\obj\Debug\projekt_MŻ.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\obj\Debug\projekt_MŻ.exe
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\obj\Debug\projekt_MŻ.pdb
+C:\Users\asus\Desktop\designing and creating high level\projekt_MŻ\projekt_MŻ\obj\Debug\projekt_MŻ.Form2.resources
